@@ -1,6 +1,10 @@
 {
     "java.project.sourcePaths": [
-        "Java Exercises/27Jan-1",
-        "JavaBasics/Java Exercises/New folder"
+        "JavaBasics/Java Exercises/OOPExercises/weather",
+        "JavaBasics/Java Exercises/OOPExercises/exercise2",
+        "JavaBasics/Java Exercises/OOPExercises/exercise1",
+        "JavaBasics/Java Exercises/OOPExercises/author",
+        "JavaBasics/Java Exercises/New folder",
+        "JavaBasics/Java Exercises/OOPExercises/exercise3"
     ]
 }
